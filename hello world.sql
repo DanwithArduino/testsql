@@ -1,1 +1,1 @@
-select "hello world" as MESSAGE
+select "hello world more text" as MESSAGE
